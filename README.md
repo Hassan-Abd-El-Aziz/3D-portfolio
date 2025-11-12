@@ -19,3 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 npm install gsap @gsap/react three @react-three/fiber @react-three/drei @react-three/postprocessing
 npm install tailwindcss @tailwindcss/vite
 npm i react-responsive
+npm install react-countup العداد
