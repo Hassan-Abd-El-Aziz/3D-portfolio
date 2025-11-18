@@ -23,3 +23,5 @@ npm install react-countup العداد
 
 تحويل الملف ثلاثي الابعاد الي jsx
 npx gltfjsx computer-optimized.glb -T
+
+EmailJs هنستخدمه لارسال الايميل
