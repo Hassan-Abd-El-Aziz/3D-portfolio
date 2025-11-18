@@ -20,3 +20,6 @@ npm install gsap @gsap/react three @react-three/fiber @react-three/drei @react-t
 npm install tailwindcss @tailwindcss/vite
 npm i react-responsive
 npm install react-countup العداد
+
+تحويل الملف ثلاثي الابعاد الي jsx
+npx gltfjsx computer-optimized.glb -T
